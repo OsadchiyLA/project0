@@ -70,6 +70,15 @@ background:#888;
       padding-top: 25px;*/
     
 }
+.icon-close:after{
+     content: "";
+    position: absolute;
+    border: 33px solid transparent;
+    border-left: 33px solid green;
+    border-top: 33px solid green;
+    bottom: 314px;
+    right: 29px;
+}
 
  
 
